@@ -1,2 +1,11 @@
-# data-analytics-portfolio
-Portfolio of data analytics projects using Python , Excel , SQL and Power bi .
+# Data Analytics Portfolio
+
+Welcome to my data analytics portfolio.
+
+Here I will upload projects related to:
+- Python
+- Excel
+- SQL
+- Power BI
+
+Projects will include data cleaning, analysis, and visualization.
