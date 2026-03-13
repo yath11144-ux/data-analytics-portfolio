@@ -9,3 +9,15 @@ Here I will upload projects related to:
 - Power BI
 
 Projects will include data cleaning, analysis, and visualization.
+## Projects
+
+### Sales Data Analysis (Excel)
+
+Dataset: Superstore Sales
+
+Analysis includes:
+- Sales by Region
+- Profit by Category
+
+Tool Used:
+Excel, Pivot table, chart
