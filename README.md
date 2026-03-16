@@ -21,3 +21,15 @@ Analysis includes:
 
 Tool Used:
 Excel, Pivot table, chart
+## Pizza Sales Dashboard (Power BI)
+
+This project analyzes pizza sales data using Power BI.
+
+Key Insights:
+- Total revenue and total orders
+- Best selling pizzas
+- Sales by category
+- Sales trend over time
+
+Tools Used:
+Power BI, Data Visualization
